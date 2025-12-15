@@ -13,7 +13,7 @@ The code structure of this repository is straightforward:
 * `train.py` and `inference.py`: Contain our DDP training and inference code.  
 * `evaluator.py`: Contains the standard evaluation code provided in the [ADM repository](https://github.com/openai/guided-diffusion/tree/main/evaluations), modified slightly for more convenient usage.
 
-Our checkpoints are available at: https://huggingface.co/luotianze666/SoFlow.
+Our checkpoints are available at: https://huggingface.co/zlab-princeton/SoFlow.
 
 ## 1. Setup Conda Environments
 
@@ -63,7 +63,7 @@ Additionally, when using a non-constant schedule, the defined **total steps** wi
 You can download our checkpoints and their training configs, along with the CIFAR-10 and ImageNet 256x256 reference files, by cloning the repository:
 
 ```bash
-git clone https://huggingface.co/luotianze666/SoFlow
+git clone https://huggingface.co/zlab-princeton/SoFlow
 ```
 * The reference file for the **ImageNet 256x256** dataset is downloaded from the [ADM repository](https://github.com/openai/guided-diffusion/tree/main/evaluations).  
 * The reference file for the **CIFAR-10** dataset is the training set containing 50,000 images, following previous works.
