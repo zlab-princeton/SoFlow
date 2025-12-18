@@ -1,6 +1,9 @@
 # SoFlow: Solution Flow Models for One-Step Generative Modeling
 
 This is the official PyTorch implementation for the paper **SoFlow: Solution Flow Models for One-Step Generative Modeling**.
+
+Arxiv: [https://arxiv.org/abs/2512.15657](https://arxiv.org/abs/2512.15657]
+
 ![](demo.png)
 ## Code Structure
 
