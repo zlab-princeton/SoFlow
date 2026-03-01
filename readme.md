@@ -1,4 +1,4 @@
-# SoFlow: Solution Flow Models for One-Step Generative Modeling
+# [ICLR 2026] SoFlow: Solution Flow Models for One-Step Generative Modeling
 
 This is the official PyTorch implementation for **SoFlow**.
 
