@@ -125,10 +125,11 @@ Our evaluator can automatically evaluate all npz files in --sample_batch_dir and
 
 ## BibTex
 ```
-@article{luo2025soflow,
-  title={SoFlow: Solution Flow Models for One-Step Generative Modeling},
-  author={Luo, Tianze and Yuan, Haotian and Liu, Zhuang},
-  journal={arXiv preprint arXiv:2512.15657},
+@inproceedings{luo2025wavefm,
+  title={Wavefm: A high-fidelity and efficient vocoder based on flow matching},
+  author={Luo, Tianze and Miao, Xingchen and Duan, Wenbo},
+  booktitle={Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)},
+  pages={2187--2198},
   year={2025}
 }
 ```
